@@ -1,0 +1,31 @@
+body {
+    background-color: lavender;
+    color: darkorchid;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button {
+    padding: 5px 20px;
+    background-color:azure;
+    color: mediumpurple;
+    border-color: mediumslateblue;
+    border-style: inset;
+}
+
+input {
+    height: 20px;
+    border-radius: 20px;
+}
+
+.heshi {
+    font-size:  35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.hase {
+    font-size: 16px;
+    font-family: 'YuMincho';
+}
