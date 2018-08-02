@@ -87,5 +87,5 @@
     // TODO {userName} をユーザーの名前に置き換える
     return result;
    }
-
+    
 })();
